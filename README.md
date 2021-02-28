@@ -1,6 +1,8 @@
 # Time-series Analysis : Nifty-50 stock price dataset
 Time series analysis enables us to visualize trends in stock prices, seasonality, autocorrelations and hence predict subsequent prices and trends. These insights are essential for many financial and non financial companies, portfolio analysis etc. In this notebook, I have explored various feature engineering techniques and models exclusive to time series data.<br>
 Please find the link to my kaggle notebook here: https://www.kaggle.com/breenda/lstm-rnn-arimax-ar-models-and-analysis
+<hr>
+Goal of this project was to explore the techniques to handle stock data. I started of with visualizing the various parameters to get an idea of the trends in data, seasonality, if its present etc. Next, I explored a few engineering techniques to generate exogenous features. Then I used models such as ARIMA, Autoregressors, LSTMs and RNNs to see which models best predict the target variable.
 
 ## Dataset
 https://www.kaggle.com/rohanrao/nifty50-stock-market-data
